@@ -42,12 +42,6 @@ Displays the results of the dice rolls in a user-friendly format.
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
 
-## Fork the project.
-Create your feature branch: git checkout -b feature/your-feature.
-Commit your changes: git commit -am 'Add some feature'.
-Push to the branch: git push origin feature/your-feature.
-Open a pull request.
-
 ## License
 This project is licensed under the MIT License.
 
